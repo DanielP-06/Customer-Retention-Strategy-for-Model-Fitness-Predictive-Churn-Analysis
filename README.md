@@ -95,7 +95,7 @@ Five distinct customer clusters were identified:
 ## 5. How to Run
 
 1.  **Environment:** Ensure you have a Python environment with `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, and `scipy` installed.
-2.  **Data:** Download `gym_churn_us.csv` and place it in `/content/drive/MyDrive/Colab Notebooks/proyecto_sprint14/` or update the `pd.read_csv()` path in the notebook.
+2.  **Data:** Download `gym_churn_us.csv` and place it in a directory you know and update the `pd.read_csv()` path in the notebook.
 3.  **Execution:** Run the Jupyter Notebook (`.ipynb`) cells sequentially from top to bottom.
 
 ## 6. Demo
